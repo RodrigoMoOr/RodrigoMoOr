@@ -9,9 +9,19 @@ My name is Rodrigo Morales. I'm a Software Developer with a background in Native
     - Software Engineering
     - C++ Programming
     - Assembler Programming
-    - Aritficial Intelligence
+    - Artificial Intelligence
     - Mobile Technologies and Mobile ML
-- 📫 How to reach me through email at andresmorales.ro@gmail.com or in [LinkedIn](https://www.linkedin.com/in/rodrigo-moor/)
+- 🌱 On my little free time I'm studying and working on my AI/ML Career Path.
+  - A bit of this course work:
+    - Foundations for problem solving and mathematical and statistical modeling:
+      - Mathematics for Machine Learning, London Imperial College
+      - Statistics, Stanford
+    - Machine Learning
+      - Python programming
+      - Google ML Engineer professional certificate
+      - Machine Learning, Stanford
+  -  You can read about my career path on [Notion](https://rmorales.notion.site/Machine-Learning-Engineer-Career-Path-v-0-0-1-eb97cd57093345aab06e4da9911d8247)
+- 📫 How to reach me through email at andresmorales.ro@gmail.com or on [LinkedIn](https://www.linkedin.com/in/rodrigo-moor/)
 
 
 <!--
