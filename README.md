@@ -20,7 +20,7 @@ My name is Rodrigo Morales. I'm a Software Developer with a background in Native
       - Python programming
       - Google ML Engineer professional certificate
       - Machine Learning, Stanford
-  -  You can read about my career path on [Notion](https://rmorales.notion.site/Machine-Learning-Engineer-Career-Path-v-0-0-1-eb97cd57093345aab06e4da9911d8247)
+  -  You can read about my career path on [Notion](https://rmorales.notion.site/Machine-Learning-Engineer-Career-Path-v-0-0-1-f04f0ad4187445fe890ed93acda8919a)
 - 📫 How to reach me through email at andresmorales.ro@gmail.com or on [LinkedIn](https://www.linkedin.com/in/rodrigo-moor/)
 
 
