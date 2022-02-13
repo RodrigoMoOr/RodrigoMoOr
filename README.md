@@ -8,7 +8,6 @@ My name is Rodrigo Morales. I'm a Software Developer with a background in Native
     - Java Programming
     - Software Engineering
     - C++ Programming
-    - Assembler Programming
     - Artificial Intelligence
     - Mobile Technologies and Mobile ML
 - 🌱 On my little free time I'm studying and working on my AI/ML Career Path.
