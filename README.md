@@ -1,6 +1,5 @@
 ### Hello there 👋
 My name is Rodrigo Morales. I'm a Software Engineer with a background in Native Mobile Apps, Web Development, and a little AI. 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMoOr&theme=radical&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working as a ML Engineer on data-driven social listening app at Applaudo Studios.
 - 🌱 I’m also a student at Politechnika Śląska studying Computer Science.
   - My favourite courses so far:
@@ -20,3 +19,7 @@ My name is Rodrigo Morales. I'm a Software Engineer with a background in Native 
       - Machine Learning, Stanford
   -  You can read about my career path on [Notion](https://rmorales.notion.site/Machine-Learning-Engineer-Career-Path-v-0-0-1-f04f0ad4187445fe890ed93acda8919a)
 - 📫 How to reach me through email at andresmorales.ro@gmail.com or on [LinkedIn](https://www.linkedin.com/in/rodrigo-moor/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMoOr&theme=radical&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMoOr&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
