@@ -24,6 +24,5 @@ My name is Rodrigo Morales. I'm a Software Engineer with a background in Native 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMoOr&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-| Default Header | Left Align | Right Align | Center Align |
-| ---            | :--        |         --: |      :-:     |
+|      :-:     |      :-:     |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoMoOr&repo=TryHardML&theme=radical)](https://github.com/RodrigoMoOr/TryHardML) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoMoOr&repo=sut-cs-sem5-idsdv&theme=radical)](https://github.com/RodrigoMoOr/sut-cs-sem5-idsdv)|
