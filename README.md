@@ -4,44 +4,64 @@ My name is Rodrigo Morales. I'm a Machine Learning Engineer with a background in
 ### My Tech Stack
 <table style="width:100%">
  <tr>
-    <td><b style="font-size:30px">ML & ML Ops</b></td>
+    <td><b style="font-size:30px">ML</b></td>
     <td><b style="font-size:30px">Web</b></td>
+    <td><b style="font-size:30px">Quantum Computing</b></td>
+    <td><b style="font-size:30px">Cloud</b></td>
  </tr>
  <tr>
     <td>Pandas</td>
     <td>TypeScript</td>
+    <td>Quantum Logic Gates</td>
+    <td>VertexAI</td>
  </tr>
  <tr>
     <td>NumPy</td>
     <td>JavaScript</td>
+    <td>Quantum Superposition</td>
+    <td>Google AI Platform & AI Pipelines
  </tr>
  <tr>
     <td>TensorFlow</td>
     <td>NestJS</td>
+    <td>Quantum Circuits</td>
+    <td>Kubeflow CLoud Pipelines & Prefect Cloud</td>
  </tr>
  <tr>
     <td>Keras</td>
     <td>Express</td>
+    <td>Deutsch-Josza Algorithm (Oracles)</td>
+    <td>GCR</td>
  </tr>
  <tr>
     <td>Scikit Learn</td>
     <td>Angular</td>
+    <td>Breaking RSA encryption</td>
+    <td>GKE</td>
  </tr>
  <tr>
     <td>Python</td>
     <td>ReactJS</td>
+    <td>Quantum Search (Grover's Algorithm)</td>
+    <td>GCS</td>
  </tr>
  <tr>
     <td>Kedro</td>
     <td>Python</td>
+    <td>Quantum Noice Reduction Basics</td>
+    <td></td>
  </tr>
  <tr>
     <td>Kubeflow</td>
     <td>FastAPI</td>
+    <td>Quantum Regression & Variational Quantum Regression</td>
+    <td></td>
  </tr>
  <tr>
     <td>Docker</td>
     <td>Flask</td>
+    <td>Quantum Classification and VQR</td>
+    <td></td>
  </tr>
 </table>
 
